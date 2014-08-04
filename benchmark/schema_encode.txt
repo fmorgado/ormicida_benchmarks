@@ -1,0 +1,27 @@
+###########  Encode Simple Json
+  dynamic convert                      36.17
+  dynamic json     map                 21.33
+  dynamic json     inspectable         22.08
+  schema  map                          22.08
+  schema  mirror   mut                 25.62
+  schema  closure  mut                 22.15
+  schema  closure2 mut                 21.57
+  schema  custom   mut                 23.49
+  schema  mirror   const               29.02
+  schema  closure  const               25.96
+  schema  closure2 const               24.87
+  schema  custom   const               23.71
+
+  dynamic json     map                  1.00
+  schema  closure2 mut                  1.01
+  dynamic json     inspectable          1.03
+  schema  map                           1.03
+  schema  closure  mut                  1.04
+  schema  custom   mut                  1.10
+  schema  custom   const                1.11
+  schema  closure2 const                1.17
+  schema  mirror   mut                  1.20
+  schema  closure  const                1.22
+  schema  mirror   const                1.36
+  dynamic convert                       1.70
+

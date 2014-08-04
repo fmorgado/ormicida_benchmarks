@@ -1,0 +1,35 @@
+###########  Decode Complex Json
+  convert                   87.88
+  convert                   86.90
+  convert  validate        147.97
+  convert  validate        147.90
+  dynamic json             200.06
+  dynamic json             199.68
+  dynamic pixm              69.66
+  dynamic pixm              69.53
+  dynamic bson             138.50
+  dynamic bson             137.96
+  schema  json             261.88
+  schema  json             239.95
+  schema  pixm             103.84
+  schema  pixm             103.06
+  schema  bson             167.35
+  schema  bson             169.10
+
+  dynamic pixm               1.00
+  dynamic pixm               1.00
+  convert                    1.25
+  convert                    1.26
+  schema  pixm               1.48
+  schema  pixm               1.49
+  dynamic bson               1.98
+  dynamic bson               1.99
+  convert  validate          2.13
+  convert  validate          2.13
+  schema  bson               2.41
+  schema  bson               2.43
+  dynamic json               2.87
+  dynamic json               2.88
+  schema  json               3.45
+  schema  json               3.77
+

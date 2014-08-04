@@ -1,0 +1,16 @@
+name: ormicida_benchmarks
+version: 0.1.1
+author: Filipe Morgado <pixevil@gmail.com>
+description: Various benchmarks tracking the performance of Ormicida serialization/validation
+homepage: https://github.com/fmorgado/ormicida_benchmarks
+dev_dependencies:
+  benchmark_harness: any
+  bson: any
+  ormicida:
+    path: ../ormicida
+  ormicida_bson:
+    path: ../ormicida_bson
+  ormicida_json:
+    path: ../ormicida_json
+  ormicida_pixm:
+    path: ../ormicida_pixm

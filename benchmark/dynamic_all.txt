@@ -1,0 +1,117 @@
+###########  encode little
+  pixm             8.44
+  json             7.69
+  bson             7.96
+  bson2           16.06
+  convert         17.81
+
+  json             1.00
+  bson             1.04
+  pixm             1.10
+  bson2            2.09
+  convert          2.32
+
+###########  encode medium
+  pixm           151.39
+  json           168.72
+  bson           140.78
+  bson2          843.88
+  convert        291.42
+
+  bson             1.00
+  pixm             1.08
+  json             1.20
+  convert          2.07
+  bson2            5.99
+
+###########  encode big
+  pixm          7932.81
+  json          8272.73
+  bson          7976.10
+  bson2        55135.14
+  convert      13230.26
+
+  pixm             1.00
+  bson             1.01
+  json             1.04
+  convert          1.67
+  bson2            6.95
+
+###########  decode little
+  pixm            13.82
+  json            17.68
+  bson            13.17
+  bson2           15.19
+  convert         12.24
+
+  convert          1.00
+  bson             1.08
+  pixm             1.13
+  bson2            1.24
+  json             1.44
+
+###########  decode medium
+  pixm           200.24
+  json           375.23
+  bson           317.71
+  bson2          411.52
+  convert        434.88
+
+  pixm             1.00
+  bson             1.59
+  json             1.87
+  bson2            2.06
+  convert          2.17
+
+###########  decode big
+  pixm          7579.55
+  json         18504.59
+  bson         15687.50
+  bson2        20612.24
+  convert      20530.61
+
+  pixm             1.00
+  bson             2.07
+  json             2.44
+  convert          2.71
+  bson2            2.72
+
+###########  total little
+  pixm            24.98
+  json            27.70
+  bson            23.33
+  bson2           37.98
+  convert         35.35
+
+  bson             1.00
+  pixm             1.07
+  json             1.19
+  convert          1.52
+  bson2            1.63
+
+###########  total medium
+  pixm           356.57
+  json           558.97
+  bson           464.68
+  bson2         1305.48
+  convert        744.05
+
+  pixm             1.00
+  bson             1.30
+  json             1.57
+  convert          2.09
+  bson2            3.66
+
+###########  total big
+  pixm         15859.38
+  json         26840.00
+  bson         22573.03
+  bson2        76407.41
+  convert      34118.64
+
+  pixm             1.00
+  bson             1.42
+  json             1.69
+  convert          2.15
+  bson2            4.82
+
